@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.01c3d63b.css",
+    "main.js": "/portfolio/static/js/main.31abd545.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/ctop.jpeg": "/portfolio/static/media/ctop.992b85ae864593e55bb7.jpeg",
+    "static/media/manali.jpeg": "/portfolio/static/media/manali.406c21879a028dc423bf.jpeg",
+    "static/media/dass.jpeg": "/portfolio/static/media/dass.e1682c9a820f9935e574.jpeg",
+    "static/media/ds.png": "/portfolio/static/media/ds.c1694fc4653a34778217.png",
+    "static/media/c_shell.png": "/portfolio/static/media/c_shell.c295a4d9bdd25fe71491.png",
+    "static/media/greddit.png": "/portfolio/static/media/greddit.a0554de2258deb1761c5.png",
+    "static/media/deansList.jpg": "/portfolio/static/media/deansList.472484275b0ce8de2c32.jpg",
+    "static/media/smai.jpg": "/portfolio/static/media/smai.b68e3f1610af6cefa699.jpg",
+    "static/media/xv6.png": "/portfolio/static/media/xv6.e166b08306e32daabf47.png",
+    "static/media/educ.png": "/portfolio/static/media/educ.f345d345a6f650d4ce71.png",
+    "static/media/jee.png": "/portfolio/static/media/jee.caa1eb6e0ed0fafb47e8.png",
+    "static/media/esw.jpg": "/portfolio/static/media/esw.bf3aeee7edfae8787c2e.jpg",
+    "static/media/ssc.jpeg": "/portfolio/static/media/ssc.8508cb04066188e6b5d9.jpeg",
+    "static/media/redbus.png": "/portfolio/static/media/redbus.70d0982af44a6e5006a1.png",
+    "static/media/iiith.jpeg": "/portfolio/static/media/iiith.43e30a214a813952a5c9.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.01c3d63b.css.map": "/portfolio/static/css/main.01c3d63b.css.map",
+    "main.31abd545.js.map": "/portfolio/static/js/main.31abd545.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c3d63b.css",
+    "static/js/main.31abd545.js"
+  ]
+}
